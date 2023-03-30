@@ -1,0 +1,15 @@
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/bin/Debug/net7.0/TuringChallenge
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/bin/Debug/net7.0/TuringChallenge.deps.json
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/bin/Debug/net7.0/TuringChallenge.runtimeconfig.json
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/bin/Debug/net7.0/TuringChallenge.dll
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/bin/Debug/net7.0/TuringChallenge.pdb
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/obj/Debug/net7.0/TuringChallenge.csproj.AssemblyReference.cache
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/obj/Debug/net7.0/TuringChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/obj/Debug/net7.0/TuringChallenge.AssemblyInfoInputs.cache
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/obj/Debug/net7.0/TuringChallenge.AssemblyInfo.cs
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/obj/Debug/net7.0/TuringChallenge.csproj.CoreCompileInputs.cache
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/obj/Debug/net7.0/TuringChallenge.dll
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/obj/Debug/net7.0/refint/TuringChallenge.dll
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/obj/Debug/net7.0/TuringChallenge.pdb
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/obj/Debug/net7.0/TuringChallenge.genruntimeconfig.cache
+/Users/jhonatantirado/Projects/TuringChallenge/TuringChallenge/obj/Debug/net7.0/ref/TuringChallenge.dll
