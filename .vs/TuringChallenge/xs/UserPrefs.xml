@@ -1,25 +1,23 @@
 ﻿<Properties StartupConfiguration="{2E1294FC-7E7D-4C2F-8C43-93185E6190F4}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TuringChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="TuringChallenge/Program.cs">
     <Files>
-      <File FileName="TuringChallenge/Program.cs" Line="50" Column="10" />
+      <File FileName="TuringChallenge/Program.cs" Line="60" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TuringChallenge" expanded="True">
-            <Node name="TuringChallenge" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="TuringChallenge" expanded="True" selected="True">
+            <Node name="TuringChallenge" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TuringChallenge PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
